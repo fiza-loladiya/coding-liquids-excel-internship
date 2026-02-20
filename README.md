@@ -62,15 +62,4 @@ I contributed to **Excel course research, curriculum refinement, lecture plannin
 - Research and content planning
 - Communication and collaboration
 
-
-
-## Proof Documents (Optional)
-- `Docs/Certificate.pdf`
-- `Docs/Letter_of_Recommendation.pdf`
-
-> I do **not** upload payslips or any financial documents publicly for privacy reasons.
-
-
-
-## Disclaimer
 All course materials and project files created during the internship are the intellectual property of the company and are not publicly shared without written permission.
