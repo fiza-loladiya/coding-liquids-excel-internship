@@ -12,7 +12,7 @@ I contributed to **Excel course research, curriculum refinement, lecture plannin
 - **Role:** Excel Data Analysis Consultant Intern
 - **Mode:** Remote  
 - **Duration:** 1 month  
-- **Work Type:** Flexible hours (as discussed)
+- **Work Type:** Flexible hours
 
 
 
