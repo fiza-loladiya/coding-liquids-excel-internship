@@ -6,7 +6,7 @@ I contributed to **Excel course research, curriculum refinement, lecture plannin
 
 > **Confidentiality Note:** I am sharing only a high-level summary of my work. Internal course files/materials are not published here without written permission.
 
----
+
 
 ## Internship Details
 - **Role:** Excel Data Analysis Consultant Intern
@@ -14,7 +14,7 @@ I contributed to **Excel course research, curriculum refinement, lecture plannin
 - **Duration:** 1 month  
 - **Work Type:** Flexible hours (as discussed)
 
----
+
 
 ## What I Worked On 
 
@@ -53,7 +53,7 @@ I contributed to **Excel course research, curriculum refinement, lecture plannin
 - Ensured consistency in file naming and folder structure.
 - Focused on making deliverables “learner-friendly” and “industry-style”.
 
----
+
 
 ## Skills Demonstrated
 - Excel (data analysis, reporting, dashboards)
@@ -62,7 +62,7 @@ I contributed to **Excel course research, curriculum refinement, lecture plannin
 - Research and content planning
 - Communication and collaboration
 
----
+
 
 ## Proof Documents (Optional)
 - `Docs/Certificate.pdf`
@@ -70,7 +70,7 @@ I contributed to **Excel course research, curriculum refinement, lecture plannin
 
 > I do **not** upload payslips or any financial documents publicly for privacy reasons.
 
----
+
 
 ## Disclaimer
 All course materials and project files created during the internship are the intellectual property of the company and are not publicly shared without written permission.
